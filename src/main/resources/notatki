@@ -1,0 +1,20 @@
+(Właściwie nie trzeba robić funkcji która tworzy anagram, wystarczy zrobić funkcje ktora sprawdza czy sa anagramami.)
+
+
+- funkcja tworzy klucz do jednego lub wiecej anagramow:
+
+    - przyjmuje string zwraca jego posortowaną wersję.
+
+
+- funkcja dodaje do mapy:
+
+    - przyjmuje posortowaną wersję i słowo, dodaje parę do mapy.
+
+
+- funkcja szuka anagramów:
+
+    - przyjumje string zwraca listę stringów
+    - nic nie przyjmuje -> listę stringów (wszystkich anagramów)
+    - przyjmuje jakiś klucz -> szuka po kluczu -> lista stringów
+
+
